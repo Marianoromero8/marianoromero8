@@ -17,6 +17,6 @@ Soy un desarrollador Full Stack con experiencia en tecnologías como Javascript,
 - [LinkedIn](https://www.linkedin.com/in/mariano-romero-489104272/)
 
 ### 🎯 Intereses:
-Me apasiona el desarrollo web y siempre estoy buscando aprender nuevas tecnologías. Actualmente, estoy interesado en profundizar mis conocimientos en diseño.
+Me apasiona el desarrollo web y siempre estoy buscando aprender nuevas tecnologías. Actualmente, estoy interesado en profundizar mis conocimientos en diseño y typescript.
 
 ¡Gracias por visitar mi perfil! 🚀
