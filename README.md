@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mariano Romero 👋
 
-Soy un desarrollador Full Stack con experiencia en tecnologías como HTML, CSS, React, Node, Redux, y PostgreSQL. Completé el bootcamp de Soy Henry y actualmente estoy estudiando para obtener mi Tecnicatura en Programación en la UTN.
+Soy un desarrollador Full Stack con experiencia en tecnologías como Javascript, HTML, CSS, CSS modules, React, Node.js, Redux, Redux Toolkit y PostgreSQL. Completé el bootcamp de Soy Henry y actualmente estoy estudiando para obtener mi Tecnicatura en Programación en la UTN.
 
 ### 🔧 Tecnologías & Herramientas:
 - **Frontend**: HTML, CSS, JavaScript, React, Redux, Redux Toolkit, CSS Modules.
