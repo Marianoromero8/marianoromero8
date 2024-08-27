@@ -3,7 +3,7 @@
 Soy un desarrollador Full Stack con experiencia en tecnologías como HTML, CSS, React, Node, Redux, y PostgreSQL. Completé el bootcamp de Soy Henry y actualmente estoy estudiando para obtener mi Tecnicatura en Programación en la UTN.
 
 ### 🔧 Tecnologías & Herramientas:
-- **Frontend**: HTML, CSS, JavaScript, React, Redux, CSS Modules.
+- **Frontend**: HTML, CSS, JavaScript, React, Redux, Redux Toolkit, CSS Modules.
 - **Backend**: Node.js, Express.js, Firebase.
 - **Base de Datos**: PostgreSQL.
 - **Herramientas**: Git, GitHub, VSCode.
