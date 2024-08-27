@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Mariano Romero 👋
 
-<!--
-**Marianoromero8/marianoromero8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Full Stack con experiencia en tecnologías como HTML, CSS, React, Node, Redux, y PostgreSQL. Completé el bootcamp de Soy Henry y actualmente estoy estudiando para obtener mi Tecnicatura en Programación en la UTN.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías & Herramientas:
+- **Frontend**: HTML, CSS, JavaScript, React, Redux, CSS Modules.
+- **Backend**: Node.js, Express.js, Firebase.
+- **Base de Datos**: PostgreSQL.
+- **Herramientas**: Git, GitHub, VSCode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados:
+- [Proyecto Individual](https://github.com/Marianoromero8/Proyecto-Individual-Videogames.git): La idea era volcar lo aprendido durante el bootcamp en un proyecto individual usando las tecnologias adquiridas en el proceso de aprendizaje
+- [Proyecto Final](https://github.com/Marianoromero8/ProyectoFinal-Henry.git): En este proyecto me desenvolvi en lo que es el front-end junto a dos compañeros. La idea del mismo era hacer un e-commerce de ropa deportiva.
+
+### 📫 Contacto:
+- **Email**: marianoromero97.mr@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mariano-romero-489104272/)
+
+### 🎯 Intereses:
+Me apasiona el desarrollo web y siempre estoy buscando aprender nuevas tecnologías. Actualmente, estoy interesado en profundizar mis conocimientos en diseño.
+
+¡Gracias por visitar mi perfil! 🚀
