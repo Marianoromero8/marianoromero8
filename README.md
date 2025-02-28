@@ -1,9 +1,9 @@
 # ¡Hola! Soy Mariano Romero 👋
 
-Soy un desarrollador Full Stack orientado en el Frontend con experiencia en tecnologías como Javascript, HTML, CSS, CSS modules, React, Node.js, Redux, Redux Toolkit y PostgreSQL. Actualmente estoy estudiando Tecnicatura Universitaria en Programacion en la UTN (Universidad Tecnologica Nacional)
+Soy un desarrollador Full Stack orientado en el Frontend con experiencia en tecnologías como Javascript, Typescript, HTML, CSS, CSS modules, Tailwind CSS, Nextjs React, Node.js, Redux, Redux Toolkit y PostgreSQL. Actualmente estoy estudiando Tecnicatura Universitaria en Programacion en la UTN (Universidad Tecnologica Nacional)
 
 ### 🔧 Tecnologías & Herramientas:
-- **Frontend**: HTML, CSS, JavaScript, React, Redux, Redux Toolkit, CSS Modules, Tailwind, Python, C++, Nextjs, Typescript
+- **Frontend**: HTML, CSS, JavaScript, Typescript, React.js, Nextjs, Tailwind CSS, Redux, Redux Toolkit, CSS Modules, Tailwind, Python, C++, Nextjs, Typescript
 - **Backend**: Node.js, Express.js, Firebase.
 - **Base de Datos**: PostgreSQL.
 - **Herramientas**: Git, GitHub, VSCode.
