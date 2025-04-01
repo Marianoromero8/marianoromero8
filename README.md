@@ -8,7 +8,7 @@ Soy un desarrollador Frontend con experiencia en tecnologías como Javascript, T
 - **Base de Datos**: PostgreSQL.
 - **Herramientas**: Git, GitHub, VSCode.
 
-### ✍️ Experiencias
+### ✍️ Experiencia Laboral
 [SPA Distribuidora](https://www.ssgdistribuidora.com.ar/): Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
 
 ### 🚀 Proyectos Destacados:
