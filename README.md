@@ -9,7 +9,7 @@ Soy un desarrollador Frontend con experiencia en tecnologías como Javascript, T
 - **Herramientas**: Git, GitHub, VSCode.
 
 ### ✍️ Experiencia Laboral
-[SPA Distribuidora](https://www.ssgdistribuidora.com.ar/): Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
+- [SSG Distribuidora](https://www.ssgdistribuidora.com.ar/): Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
 
 ### 🚀 Proyectos Destacados:
 - [Proyecto Individual](https://github.com/Marianoromero8/Proyecto-Individual-Videogames.git): La idea era volcar lo aprendido durante el bootcamp en un proyecto individual usando las tecnologias adquiridas en el proceso de aprendizaje
