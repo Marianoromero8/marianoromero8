@@ -3,7 +3,7 @@
 Soy un desarrollador Frontend con experiencia en tecnologías como Javascript, Typescript, HTML, CSS, Tailwind CSS, Next.js, React.js, Redux Toolkit, Node.js y PostgreSQL. Actualmente estoy estudiando Tecnicatura Universitaria en Programacion en la UTN (Universidad Tecnologica Nacional)
 
 ### 🔧 Tecnologías & Herramientas:
-- **Frontend**: JavaScript, Typescript, React.js, Nextjs, Tailwind CSS, CSS, Redux, Redux Toolkit, HTML, Python, C++
+- **Frontend**: JavaScript, Typescript, React.js, Nextjs, Tailwind CSS, CSS, Redux Toolkit, HTML, Python, C++
 - **Backend**: Node.js, Express.js, Firebase.
 - **Base de Datos**: PostgreSQL.
 - **Herramientas**: Git, GitHub, VSCode.
