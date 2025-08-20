@@ -1,7 +1,7 @@
 # ¡Hola! Soy Mariano Romero 👋
 
 💻 **Software Developer | Full Stack Developer | Estudiante UTN**  
-📍 Bahía Blanca, Argentina  
+📍 Bahía Blanca, Buenos Aires, Argentina  
 
 Soy un **Software Developer** con experiencia en **Full Stack Development** trabajando con tecnologías como **React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Node.js y PostgreSQL**. Actualmente curso la **Tecnicatura Universitaria en Programación en la UTN** y sigo perfeccionando mis habilidades en desarrollo web. 
 
@@ -26,4 +26,4 @@ Soy un **Software Developer** con experiencia en **Full Stack Development** trab
 ### Intereses:
 Me apasiona el desarrollo web y siempre estoy buscando aprender nuevas tecnologías. Actualmente, estoy interesado en profundizar mis conocimientos en front-end y adquirir experiencia laboral!.
 
-¡Gracias por visitar mi perfil! 🚀
+¡Gracias por visitar mi perfil!
