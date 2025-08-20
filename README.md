@@ -1,6 +1,9 @@
 # ¡Hola! Soy Mariano Romero 👋
 
-Soy un desarrollador Frontend con experiencia en tecnologías como Javascript, Typescript, HTML, CSS, Tailwind CSS, Next.js, React.js, Redux Toolkit, Node.js y PostgreSQL. Actualmente estoy estudiando Tecnicatura Universitaria en Programacion en la UTN (Universidad Tecnologica Nacional)
+💻 **Software Developer | Full Stack Developer | Estudiante UTN**  
+📍 Bahía Blanca, Argentina  
+
+Soy un **Software Developer** con experiencia en **Full Stack Development** trabajando con tecnologías como **React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Node.js y PostgreSQL**. Actualmente curso la **Tecnicatura Universitaria en Programación en la UTN** y sigo perfeccionando mis habilidades en desarrollo web. 
 
 ### Tecnologías & Herramientas:
 - **Frontend**: JavaScript, Typescript, React.js, Nextjs, Tailwind CSS, CSS, Redux Toolkit, HTML, Python, C++
