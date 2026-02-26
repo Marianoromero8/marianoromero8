@@ -1,30 +1,34 @@
 # ¡Hola! Soy Mariano Romero 👋
 
-**Software Developer Junior | Estudiante UTN**  
-Bahía Blanca, Buenos Aires, Argentina  
+## Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
+**Bahía Blanca, Argentina**  
 
-Soy un **Software Developer Junior** con experiencia en **Full Stack Development** trabajando con tecnologías como **React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Node.js y PostgreSQL**. Actualmente curso la **Tecnicatura Universitaria en Programación en la UTN** y sigo perfeccionando mis habilidades en desarrollo web. 
+Graduado en la **Universidad Tecnológica Nacional (UTN)** con sólida base en arquitectura de software y desarrollo Web. Especializado en el ecosistema **JavaScript/TypeScript**, enfocado en escribir código limpio, escalable y eficiente.
 
 ### Tecnologías & Herramientas:
 - **Lenguajes**: JavaScript, Typescript, Python, C++
-- **Frontend**: React.js, Nextjs, Tailwind CSS, HTML
+- **Frontend**: React.js, Nextjs, Tailwind CSS, HTML, Redux Toolkit, Shadcn/ui.
 - **Backend**: Node.js, Express.js.
 - **Base de Datos**: PostgreSQL, MySQL, MongoDB, Firebase
-- **Herramientas**: Git, GitHub, VSCode.
+- **Herramientas**: Git, GitHub, Docker, Axios, PowerBI
 
 ###  Experiencia Profesional
-- [SSG Distribuidora](https://www.ssgdistribuidora.com.ar/): Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
-
+* **SSG Distribuidora (Freelance):** Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
+* **Reserve Pro (Colaboración):** Mantenimiento y evolución de interfaz de usuario con **React**, aplicando patrones de **Clean Architecture** y refactorización de código.
+* 
 ### Proyectos Destacados:
-- [Proyecto Individual](https://github.com/Marianoromero8/Proyecto-Individual-Videogames.git): La idea era volcar lo aprendido durante el bootcamp en un proyecto individual usando las tecnologias adquiridas en el proceso de aprendizaje
-- [Proyecto Final](https://github.com/Marianoromero8/ProyectoFinal): En este proyecto me desenvolvi en lo que es el frontend junto a dos compañeros. La idea del mismo era hacer un e-commerce de ropa deportiva.
+* **[E-commerce de Suplementos](https://github.com/Marianoromero8/frontend-suplementos):** Mi Proyecto Final en la UTN. Una solución Full Stack con lógica compleja de carrito, gestión de stock en tiempo real e integración de API.
+* **[Proyecto Individual](https://github.com/Marianoromero8/Proyecto-Individual-Videogames.git):** Proyecto individual enfocado en el consumo de APIs externas y operaciones CRUD con arquitectura modular.
+* **[ChampionGear](https://github.com/Marianoromero8/ProyectoFinal):** E-commerce de indumentaria deportiva. Integración de pasarela de pagos con **Stripe** y autenticación con **Firebase**.
+
+### Educación
+* **Tecnicatura Universitaria en Programación** - UTN (Graduado - Feb 2026 | Promedio: 8.67)
+* **Python Essentials 1** - Cisco Networking Academy
+* **Inglés** - Instituto Oxford (Nivel B2)
 
 ### Contacto:
-- **Email**: marianoromero97.mr@gmail.com
+- Email: marianoromero97.mr@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mariano-romero-489104272/)
 - [Portfolio](https://romero-mariano.vercel.app/)
 
-### Intereses:
-Me apasiona el desarrollo web y siempre estoy buscando aprender nuevas tecnologías. Actualmente, estoy interesado en profundizar mis conocimientos en front-end y adquirir experiencia laboral!.
-
-¡Gracias por visitar mi perfil!
+*“Aprendizaje continuo y pasión por el código. Enfocado en ser un mejor desarrollador cada día.”*
