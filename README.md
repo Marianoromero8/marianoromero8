@@ -27,8 +27,8 @@ Graduado en la **Universidad Tecnológica Nacional (UTN)** con sólida base en a
 * **Inglés** - Instituto Oxford (Nivel B2)
 
 ### Contacto:
-- (📧): marianoromero97.mr@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mariano-romero-489104272/)
-- [Portfolio](https://romero-mariano.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](TU_LINK_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianoromero97.mr@gmail.com)
 
 *“Aprendizaje continuo y pasión por el código. Enfocado en ser un mejor desarrollador cada día.”*
