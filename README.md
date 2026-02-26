@@ -27,7 +27,7 @@ Graduado en la **Universidad Tecnológica Nacional (UTN)** con sólida base en a
 * **Inglés** - Instituto Oxford (Nivel B2)
 
 ### Contacto:
-- Email: marianoromero97.mr@gmail.com
+- (📧): marianoromero97.mr@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mariano-romero-489104272/)
 - [Portfolio](https://romero-mariano.vercel.app/)
 
