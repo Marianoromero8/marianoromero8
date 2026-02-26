@@ -15,7 +15,7 @@ Graduado en la **Universidad Tecnológica Nacional (UTN)** con sólida base en a
 ###  Experiencia Profesional
 * **SSG Distribuidora (Freelance):** Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
 * **Reserve Pro (Colaboración):** Mantenimiento y evolución de interfaz de usuario con **React**, aplicando patrones de **Clean Architecture** y refactorización de código.
-* 
+
 ### Proyectos Destacados:
 * **[E-commerce de Suplementos](https://github.com/Marianoromero8/frontend-suplementos):** Mi Proyecto Final en la UTN. Una solución Full Stack con lógica compleja de carrito, gestión de stock en tiempo real e integración de API.
 * **[Proyecto Individual](https://github.com/Marianoromero8/Proyecto-Individual-Videogames.git):** Proyecto individual enfocado en el consumo de APIs externas y operaciones CRUD con arquitectura modular.
