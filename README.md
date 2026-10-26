@@ -1,30 +1,35 @@
 # ¡Hola! Soy Mariano Romero 👋
 
-## Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
+## Técnico Universitario en Programación (UTN) | Desarrollador Full Stack
 **Bahía Blanca, Argentina**  
 
-Graduado en la **Universidad Tecnológica Nacional (UTN)** con sólida base en arquitectura de software y desarrollo Web. Especializado en el ecosistema **JavaScript/TypeScript**, enfocado en escribir código limpio, escalable y eficiente.
+Técnico Universitario en Programación graduado de la **Universidad Tecnológica Nacional (UTN)**, con experiencia freelance de punta a punta: frontend, backend, base de datos e integraciones como WhatsApp. Especializado en el ecosistema **JavaScript/TypeScript**, enfocado en escribir código limpio, escalable y eficiente.
 
 ### Tecnologías & Herramientas:
 - **Lenguajes**: JavaScript, Typescript, Python, C++
-- **Frontend**: React.js, Nextjs, Tailwind CSS, HTML, Redux Toolkit, Shadcn/ui.
+- **Frontend**: React.js, Nextjs, Tailwind CSS, HTML, Redux Toolkit, Zustand, Shadcn/ui.
 - **Backend**: Node.js, Express.js.
 - **Base de Datos**: PostgreSQL, MySQL, MongoDB, Firebase
-- **Herramientas**: Git, GitHub, Docker, Axios, PowerBI
+- **Herramientas**: Git, GitHub, Jira, Docker, PowerBI, Claude Code
 
 ###  Experiencia Profesional
-* **SSG Distribuidora (Freelance):** Desarrollo de una aplicación web para mostrar el catálogo de productos de una distribuidora, mejorando la accesibilidad y experiencia de los clientes.
-* **Reserve Pro (Colaboración):** Mantenimiento y evolución de interfaz de usuario con **React**, aplicando patrones de **Clean Architecture** y refactorización de código.
+* **[Punto Fiesta](https://www.puntofiestabahia.com/) (Freelance · May–Ago 2026):** E-commerce completo: sitio público con carrito y checkout ([repo](https://github.com/Marianoromero8/puntofiesta)), 
+panel de administración de pedidos ([repo](https://github.com/Marianoromero8/admin-distribuidora)) y 
+API REST con Express y PostgreSQL ([repo](https://github.com/Marianoromero8/ssg-distribuidora-backend)), con notificaciones automáticas por WhatsApp al confirmar cada compra.
+* **[Blackout](https://www.tiendablackout.com.ar/) (Freelance · Mar–Abr 2026):** Landing page responsive para un emprendimiento local con React y TypeScript, desplegada en Vercel.
+([repo](https://github.com/Marianoromero8/blackout-landing))
+* **[SSG Distribuidora](https://www.ssgdistribuidora.com.ar/) (Freelance · Ene–Mar 2025):** Catálogo digital de alto rendimiento con Next.js y datos estáticos en JSON: carga inmediata y sin costos de servidor.
+([repo](https://github.com/Marianoromero8/ssg-distribuidora))
 
 ### Proyectos Destacados:
-* **[E-commerce de Suplementos](https://github.com/Marianoromero8/frontend-suplementos):** Mi Proyecto Final en la UTN. Una solución Full Stack con lógica compleja de carrito, gestión de stock en tiempo real e integración de API.
-* **[Proyecto Individual](https://github.com/Marianoromero8/Proyecto-Individual-Videogames.git):** Proyecto individual enfocado en el consumo de APIs externas y operaciones CRUD con arquitectura modular.
-* **[ChampionGear](https://github.com/Marianoromero8/ProyectoFinal):** E-commerce de indumentaria deportiva. Integración de pasarela de pagos con **Stripe** y autenticación con **Firebase**.
+* **[E-commerce de Suplementos](https://frontend-suplementos-one.vercel.app/):** Proyecto Final Integrador de la UTN. Lideré el desarrollo del frontend: catálogo con gestión de stock, carrito con persistencia y validaciones de checkout e integración con la API del backend. ([repo](https://github.com/Marianoromero8/frontend-suplementos))
 
 ### Educación
-* **Tecnicatura Universitaria en Programación** - UTN (Graduado - Feb 2026 | Promedio: 8.67)
-* **Python Essentials 1** - Cisco Networking Academy
-* **Inglés** - Instituto Oxford (Nivel B2)
+* **Técnico Universitario en Programación** · UTN (Graduado · Feb 2026 · Promedio 8.67/10)
+* **Claude Code 101** · Anthropic (Jun 2026)
+* **Claude 101** · Anthropic (May 2026)
+* **Python Essentials 1** · Cisco Networking Academy (May 2023)
+* **Inglés B2** · Instituto Oxford
 
 ### Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-romero-489104272/)
