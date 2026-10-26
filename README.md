@@ -5,7 +5,7 @@
 
 Técnico Universitario en Programación graduado de la **Universidad Tecnológica Nacional (UTN)**, con experiencia freelance de punta a punta: frontend, backend, base de datos e integraciones como WhatsApp. Especializado en el ecosistema **JavaScript/TypeScript**, enfocado en escribir código limpio, escalable y eficiente.
 
-### Tecnologías & Herramientas:
+### Tecnologías & Herramientas
 - **Lenguajes**: JavaScript, TypeScript, Python, C++
 - **Frontend**: React.js, Next.js, Tailwind CSS, HTML, Redux Toolkit, Zustand, shadcn/ui.
 - **Backend**: Node.js, Express.js.
@@ -21,7 +21,7 @@ API REST con Express y PostgreSQL ([repo](https://github.com/Marianoromero8/ssg-
 * **[SSG Distribuidora](https://www.ssgdistribuidora.com.ar/) (Freelance · Ene–Mar 2025):** Catálogo digital de alto rendimiento con Next.js y datos estáticos en JSON: carga inmediata y sin costos de servidor.
 ([repo](https://github.com/Marianoromero8/ssg-distribuidora))
 
-### Proyecto Destacado:
+### Proyecto Destacado
 * **[E-commerce de Suplementos](https://frontend-suplementos-one.vercel.app/):** Proyecto Final Integrador de la UTN. Lideré el desarrollo del frontend: catálogo con gestión de stock, carrito con persistencia y validaciones de checkout e integración con la API del backend. ([repo](https://github.com/Marianoromero8/frontend-suplementos))
 
 ### Educación
@@ -31,7 +31,7 @@ API REST con Express y PostgreSQL ([repo](https://github.com/Marianoromero8/ssg-
 * **Python Essentials 1** · Cisco Networking Academy (May 2023)
 * **Inglés B2** · Instituto Oxford
 
-### Contacto:
+### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-romero-489104272/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://romero-mariano.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianoromero97.mr@gmail.com)
