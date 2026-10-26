@@ -6,11 +6,11 @@
 Técnico Universitario en Programación graduado de la **Universidad Tecnológica Nacional (UTN)**, con experiencia freelance de punta a punta: frontend, backend, base de datos e integraciones como WhatsApp. Especializado en el ecosistema **JavaScript/TypeScript**, enfocado en escribir código limpio, escalable y eficiente.
 
 ### Tecnologías & Herramientas
-- **Lenguajes**: JavaScript, TypeScript, Python, C++
+- **Lenguajes**: JavaScript, TypeScript, Python, C++.
 - **Frontend**: React.js, Next.js, Tailwind CSS, HTML, Redux Toolkit, Zustand, shadcn/ui.
 - **Backend**: Node.js, Express.js.
-- **Base de Datos**: PostgreSQL, MySQL, MongoDB, Firebase
-- **Herramientas**: Git, GitHub, Jira, Docker, Power BI, Claude Code
+- **Base de Datos**: PostgreSQL, MySQL, MongoDB, Firebase.
+- **Herramientas**: Git, GitHub, Jira, Docker, Power BI, Claude Code.
 
 ###  Experiencia Profesional
 * **[Punto Fiesta](https://www.puntofiestabahia.com/) (Freelance · May–Ago 2026):** E-commerce completo: sitio público con carrito y checkout ([repo](https://github.com/Marianoromero8/puntofiesta)), 
